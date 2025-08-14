@@ -9,3 +9,6 @@ Fraud detection is a critical focus area for the banking and finance sectors. In
 📈 Risk Assessment Metrics: Identify high-risk transactions and analyze fraud probability.
 🤖 Predictive Insights: Explore how banks can leverage BI and analytics for fraud prevention.
 🌍 Real-World Applications: Understand how financial institutions detect and combat fraud daily.
+
+<img width="1321" height="741" alt="Credit card fraud risk Dashboard" src="https://github.com/user-attachments/assets/e887dcff-ee59-4a15-bdc3-d64321288486" />
+

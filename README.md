@@ -17,5 +17,9 @@ Fraud detection is a critical focus area for the banking and finance sectors. In
 
 
 
+
+
+
+
 <img width="1321" height="741" alt="Credit card fraud risk Dashboard" src="https://github.com/user-attachments/assets/e887dcff-ee59-4a15-bdc3-d64321288486" />
 
